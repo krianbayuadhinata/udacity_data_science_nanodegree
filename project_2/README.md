@@ -73,13 +73,10 @@ Besides process_data.py, you can refer to `ML Pipeline Preparation.ipynb` to fol
 
 #### 3. Flask Web App
 The project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. The outputs are shown below:
-![app3](https://user-images.githubusercontent.com/54407746/98725077-9826b800-238c-11eb-828f-864dce8cbd9b.JPG)
+![app1](https://github.com/krianbayuadhinata/udacity_data_science_nanodegree/blob/main/project_2/displayed%20master%20html.png)
 
 
-![app1](https://user-images.githubusercontent.com/54407746/98724735-159df880-238c-11eb-8338-bc4b4e0b1c39.JPG)
-
-
-![app2](https://user-images.githubusercontent.com/54407746/98724932-5bf35780-238c-11eb-8a93-ebb09ab2d510.JPG)
+![app2](https://github.com/krianbayuadhinata/udacity_data_science_nanodegree/blob/main/project_2/displayed_result_go.png)
 
 
 ### Instructions of How to Interact With Project:
